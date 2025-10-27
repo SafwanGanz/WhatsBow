@@ -1,6 +1,6 @@
 # 🧩 WhatsMeow++ | WhatsApp but Built Different 🔥
 
-> yo broski 😈 welcome to **WhatsMeow++**, the skibidi-coded WhatsApp clone that actually connects to REAL WhatsApp servers. This ain't some fake demo — this is the REAL DEAL 💀
+> yo broski 😈 welcome to **WhatsBow++**, the skibidi-coded WhatsApp clone that actually connects to REAL WhatsApp servers. This ain't some fake demo — this is the REAL DEAL 💀
 
 **Meta's playground? Nah. YOUR chat multiverse now** 💬
 
@@ -14,12 +14,12 @@ Most WhatsApp clones are mid. They fake everything. Not this one.
 
 ---
 
-## ⚙️ Built With (a.k.a. brainrot components)
+## ⚙️ Built With (a.k.a. components)
 
-- 🐹 **Go + WhatsMeow** — Backend so sigma it talks to WhatsApp like they're best friends
+- 🐹 **Go + WhatsBow** — Backend so sigma it talks to WhatsApp like they're best friends
 - ⚛️ **Next.js 14** — Frontend faster than ur crush leaving ur texts on seen
 - 🧠 **TypeScript** — Coz raw JS is unfiltered NPC energy
-- 💾 **MongoDB / PostgreSQL** — Store ur chat history like trauma
+- 💾 **Prisma DB** — Store ur chat history like trauma
 - 🎨 **Tailwind CSS** — Drip so clean it should be illegal
 
 ---
@@ -94,7 +94,6 @@ Side effects may include: becoming too powerful, coding in your sleep, and never
 
 ## 👑 The Creator
 
-**Built by:** Arshad | [@arshadkk](https://github.com/arshadkk)  
 **Follow the vision:** [@Safwanganz](https://github.com/Safwanganz)
 
 > *Built different. Coded different. Replies faster than WhatsApp itself.*
