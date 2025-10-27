@@ -1,4 +1,4 @@
-# 🧩 WhatsMeow++ | WhatsApp but Built Different 🔥
+# 🧩 WhatsBow++ | WhatsApp but Built Different 🔥
 
 > yo broski 😈 welcome to **WhatsBow++**, the skibidi-coded WhatsApp clone that actually connects to REAL WhatsApp servers. This ain't some fake demo — this is the REAL DEAL 💀
 
