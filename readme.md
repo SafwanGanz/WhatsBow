@@ -10,7 +10,7 @@
 
 Most WhatsApp clones are mid. They fake everything. Not this one.
 
-**WhatsMeow++ connects DIRECTLY to WhatsApp servers.** No cap. No fake APIs. Pure sigma engineering.
+**WhatsBow++ connects DIRECTLY to WhatsApp servers.** No cap. No fake APIs. Pure sigma engineering.
 
 ---
 
