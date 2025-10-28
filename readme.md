@@ -17,7 +17,7 @@ Most WhatsApp clones are mid. They fake everything. Not this one.
 ✨ **What You Get:**
 - 💬 **Real WhatsApp Connection** — Not fake. Not simulated. REAL messages to REAL numbers
 - 📸 **Media Everything** — Send pics, vids, docs smoother than butter
-- 🎵 **UNLIMITED Audio Status** — Drop entire audiobooks as status. NO size limit. NO playback limit. Post that 3-hour podcast, bestie. We don't judge 💀
+- 🎵 **UNLIMITED Audio Status** — Drop entire audiobooks as status. NO size limit. NO playback limit. Post that 3-hour podcast, broskii. We don't judge 💀
 - 🔔 **Instant Sync** — Messages arrive faster than regret
 - 👤 **Your Contacts, Your Rules** — Full contact list, looking cleaner than ur room never will
 - 🔍 **Search Like a Pro** — Find that one message from 3 months ago in 0.2 seconds
