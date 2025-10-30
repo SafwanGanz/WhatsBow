@@ -69,7 +69,7 @@ Side effects may include: becoming too powerful, coding in your sleep, never usi
 ## 🔥 THE FUTURE OF MESSAGING IS COMING 🔥
 ### Built for devs who refuse to stay mid
 *This ain't just code. This is a movement.* 💀
-**Star it. Watch it. Be ready.**
+**Star it. Watch it. Be ready.** 
 </div>
 ---
 <div align="center">
