@@ -1,6 +1,6 @@
 # 🧩 WhatsBow++ | WhatsApp but Built Different 🔥
 > yo broski 😈 welcome to **WhatsBow++**, the skibidi-coded WhatsApp clone that actually connects to REAL WhatsApp servers. This ain't some fake demo — this is the REAL DEAL 💀
-**Meta's playground? Nah. YOUR chat multiverse now** 💬
+**Meta's playground? Nah. YOUR chat multiverse now**
 ---
 ## 🌟 Why This Hits Different
 Most WhatsApp clones are mid. They fake everything. Not this one.
@@ -76,8 +76,8 @@ Side effects may include: becoming too powerful, coding in your sleep, never usi
 ### 💬 "WhatsApp but actually yours" — that's the vibe
 **No cap, this project goes astronomically hard** 🚀
 #### 🎵 Now with audio status that hits different — unlimited everything fr fr
-<<<<<<< Updated upstream
+</div>
 </div>
 =======
-</div>
->>>>>>> Stashed changes
+
+
